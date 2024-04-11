@@ -59,30 +59,43 @@
     border-radius: 5px;
 }
 
-@media screen and (min-width:250px) and (max-width:1280px){
+@media screen and (min-width:275px) and (max-width:420px){
     #wholepage{
         background-color: white;
     }
     
     
     #navbar1{
-        display: flex;
-        gap: 10px;
-        margin-left: 25%;
+        /* display: flex; */
+        gap: 5px;
+        font-size: xx-small;
+        width: 1%;
+        height: 2%;
+        margin-right: 50%;
+        margin-left: 0px;
+
     }
+
     
     #navbar2{
         display: flex;
         gap: 10px;
-        margin-left: 60%;
+        margin-left: 30%;
         padding-bottom: 10%;
+      
     }
     
     .bt1{
         color: white;
-        padding: 10px;
-        border-radius: 5px;
+        /* padding: 10px; */
+        border-radius: 2px;
         background-color: lightblue;
+        border-radius: 1px;
+        font-size: x-small;
+        height: 45px;
+    
+    
+
     }
     
     #advert{
@@ -94,17 +107,20 @@
     }
     .logo1{
         justify-content: space-between;
+        width: 10%;
+        height: 20%;
     
         
     }
     
     .advert2{
-        font-size: small;
+        font-size: x-small;
     }
     
     .footer{
-        margin-left: 35%;
-        padding-top: 5%;
+        /* margin-left: 35%; */
+        /* padding-top: 5%; */
+        margin-right: 10%;
        
     }
     
@@ -122,12 +138,18 @@
         border-radius: 5px;
     }
     .find{
-        font-size: x-small;
+        font-size: larger;
     }
     .logo3{
         width: 50%;
-        height: 10%;
-        display: flex;
+        height: 8%;
+
+        
+    }
+    .find{
+        border-radius: 1px;
+        font-size: x-small;
+
     }
 
     
