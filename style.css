@@ -1,0 +1,135 @@
+#wholepage{
+    background-color: white;
+}
+
+
+#navbar1{
+    display: flex;
+    gap: 10px;
+    margin-left: 25%;
+}
+
+#navbar2{
+    display: flex;
+    gap: 10px;
+    margin-left: 60%;
+    padding-bottom: 10%;
+}
+
+.bt1{
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: lightblue;
+}
+
+#advert{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 10%;
+
+    
+}
+.logo1{
+    justify-content: space-between;
+
+    
+}
+
+.advert2{
+    font-size: small;
+}
+
+.footer{
+    margin-left: 35%;
+    padding-top: 5%;
+   
+}
+
+.image1{
+    border-radius: 50%;
+    padding-top: 2%;
+    margin-right: 30%;
+
+}
+
+.search{
+    color: white;
+    background-color: lightblue;
+    border-radius: 5px;
+}
+
+@media screen and (min-width:250px) and (max-width:1280px){
+    #wholepage{
+        background-color: white;
+    }
+    
+    
+    #navbar1{
+        display: flex;
+        gap: 10px;
+        margin-left: 25%;
+    }
+    
+    #navbar2{
+        display: flex;
+        gap: 10px;
+        margin-left: 60%;
+        padding-bottom: 10%;
+    }
+    
+    .bt1{
+        color: white;
+        padding: 10px;
+        border-radius: 5px;
+        background-color: lightblue;
+    }
+    
+    #advert{
+        display: flex;
+        justify-content: space-evenly;
+        margin-left: 10%;
+    
+        
+    }
+    .logo1{
+        justify-content: space-between;
+    
+        
+    }
+    
+    .advert2{
+        font-size: small;
+    }
+    
+    .footer{
+        margin-left: 35%;
+        padding-top: 5%;
+       
+    }
+    
+    .image1{
+        border-radius: 25%;
+        padding-top: 2%;
+        margin-right: 30%;
+        height: 20%;
+    
+    }
+    
+    .search{
+        color: white;
+        background-color: lightblue;
+        border-radius: 5px;
+    }
+    .find{
+        font-size: x-small;
+    }
+    .logo3{
+        width: 50%;
+        height: 10%;
+        display: flex;
+    }
+
+    
+
+}
