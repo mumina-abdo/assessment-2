@@ -130,7 +130,7 @@ body{
 
 
 
-@media only screen and (min-width: 280px) and (max-width: 400px) {
+@media only screen and (min-width: 280px) and (max-width: 440px) {
 
     header{
         /* display: flex; */
@@ -293,7 +293,7 @@ body{
 }
 
 
-@media only screen and (mix-width: 401px) and (max-width: 600px){
+@media only screen and (mix-width: 441px) and (max-width: 600px){
 
     header{
         display: flex;
